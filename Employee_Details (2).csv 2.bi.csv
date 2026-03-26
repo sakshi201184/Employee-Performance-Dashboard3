@@ -1,0 +1,21 @@
+EmployeeID,EmployeeName,Department,Region,Experience_Years,Salary,Salary_category
+101,Employee_1,Finance,Delhi,0,75035,High
+102,Employee_2,Operations,Chennai,1,63071,High
+103,Employee_3,Finance,Pune,4,84347,High
+104,Employee_4,IT,Mumbai,3,54192,Medium
+105,Employee_5,Finance,Pune,0,71320,Medium
+106,Employee_6,Sales,Chennai,1,69360,Medium
+107,Employee_7,Operations,Chennai,0,50313,Low
+108,Employee_8,HR,Delhi,3,63605,Medium
+109,Employee_9,IT ,Bangalore,3,79481,High
+110,Employee_10,Operations,Chennai,5,80444,High
+111,Employee_11,Sales,Chennai,5,33387,Low
+112,Employee_12,IT ,Delhi,2,80681,High
+113,Employee_13,Sales,Chennai,5,39045,High
+114,Employee_14,HR,Mumbai,2,74611,High
+115,Employee_15,Sales,Chennai,0,69402,Medium
+116,Employee_16,Sales,Chennai,4,53806,Low
+117,Employee_17,IT,Chennai,1,62711,Medium
+118,Employee_18,IT,Pune,5,59627,Low
+119,Employee_19,HR,Mumbai,5,49153,Low
+120,Employee_20,HR,Chennai,3,44679,Low
