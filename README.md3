@@ -1,0 +1,49 @@
+# 👩‍💼 Employee Performance Dashboard
+
+## 📌 Project Overview
+
+This project is an Employee Performance Dashboard created using Microsoft Power BI to analyze employee data and performance metrics.
+
+## 📊 Dataset
+
+* Employee Data
+* Performance Data
+  (Common column: EmployeeID)
+
+## 🎯 Objectives
+
+* Analyze employee performance
+* Track productivity and overtime
+* Provide data-driven insights
+
+## 📈 Visualizations Used
+
+* Bar Chart
+* Column Chart
+* Line Chart
+* Pie Chart
+* Donut Chart
+* Cards
+* Slicers
+
+## 🛠 Tools Used
+
+* Microsoft Power BI
+* Excel / CSV
+
+## 🔗 Data Model
+
+* One-to-Many relationship using EmployeeID
+
+## 🧠 Insights
+
+* High overtime increases productivity
+* Department-wise performance varies
+* Top performers identified
+
+## 📷 Dashboard Preview
+
+(Add your screenshot here)
+
+## 👩‍💻 Author
+Sakshi S. Ingle
